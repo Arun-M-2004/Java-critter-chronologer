@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 94cce9ef-61d6-4878-81e1-7ad91beb6d46
+
+localResources:
+  collections:
+    - ../Udacity.postman_collection.json
